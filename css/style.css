@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+
+}
+
+body {
+    margin: 0;
+    background-image: url('/img/body.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main_table {
+    width: 990px;
+    height: 100%;
+    box-shadow: 0 0 59px -23px #000000;
+}
+
+.top_menu li{
+    display: inline;
+
+}
